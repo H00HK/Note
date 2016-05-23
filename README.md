@@ -1,4 +1,4 @@
-# Note
+# DLL & .so
 
 http://stackoverflow.com/questions/5908660/how-to-import-dll-to-android-java-project-working-with-eclipse?lq=1
 http://stackoverflow.com/questions/8394722/c-sharp-dll-library-in-android-app
